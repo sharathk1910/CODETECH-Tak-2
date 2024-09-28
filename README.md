@@ -29,4 +29,17 @@ F1 Score: A harmonic mean of precision and recall, balancing the two.
 Additionally, a classification report for the Random Forest model is generated to provide a detailed breakdown of its performance across each class (species).
 
 This project allows comparison between different machine learning algorithms and highlights their strengths in handling classification problems in data science.
+#output
+
+
+![2nd task output](https://github.com/user-attachments/assets/b88fe484-d3bf-487b-ae04-af22916136e7)
+
+
+
+
+
+
+
+
+
 
